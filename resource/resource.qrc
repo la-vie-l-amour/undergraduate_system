@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/绿色 叶子 节能.png</file>
+    <file>icons/叶子2.png</file>
+    <file>icons/望远镜.png</file>
+    <file>icons/宇宙星球-21.png</file>
+    <file>icons/10.png</file>
+    <file>icons/1.jpg</file>
+    <file>icons/箭头_向右_o.png</file>
+    <file>icons/箭头_向左_o.png</file>
+    <file>icons/4.png</file>
+    <file>icons/cha.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/login11.png</file>
+  </qresource>
+</RCC>
