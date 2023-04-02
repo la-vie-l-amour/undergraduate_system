@@ -1,1 +1,2 @@
 大学科研做的系统，之后同学做车牌识别项目，所以改了一下接口，借用https://github.com/872699467/CCPD_CNN和https://github.com/detectRecog/CCPD
+用qt，mysql，首先需要执行database.py 建立数据库，之后执行main.py
